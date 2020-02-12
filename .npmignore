@@ -1,6 +1,10 @@
-/test
+/dist/example.js
+/dist/index.html
 .babelrc
+.nvmrc
+.editorconfig
+.eslintrc.json
 .gitignore
 .travis.yml
-rollup.config.js
+webpack.config.js
 yarn.lock
