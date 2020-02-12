@@ -1,0 +1,34 @@
+{
+  "name": "op-slider",
+  "version": "1.0.0",
+  "description": "Overpowered Slider",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack -p",
+    "dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Novikov/op-slider.git"
+  },
+  "keywords": [
+    "Slider",
+    "js",
+    "vanila",
+    "front-end",
+    "best"
+  ],
+  "author": "Daniel Novikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daniel-Novikov/op-slider/issues"
+  },
+  "homepage": "https://github.com/Daniel-Novikov/op-slider#readme",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
